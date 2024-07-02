@@ -32,12 +32,11 @@ public class AlunoServiceImpl implements IAlunoService {
 
   @Override
   public Aluno get(Long id) {
-    return null;
+    return repository.findById(id).orElse(null);
   }
 
   @Override
   public List<Aluno> getAll(String dataDeNascimento) {
-
     if(dataDeNascimento == null) {
       return repository.findAll();
     } else {
