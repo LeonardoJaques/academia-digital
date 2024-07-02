@@ -41,4 +41,12 @@ public interface IAvaliacaoFisicaService {
    * @param id - id da Avaliação Física que será removida.
    */
   void delete(Long id);
+  
+  /**
+   * Retorna todas as Avaliações Física que estão no banco de dados.
+   *
+   * @return - Uma lista com todas as Avaliações Física que estão salvas no DB.
+   */
+  
+  List<AvaliacaoFisica> getAllAvaliacaoFisica(Long id);
 }
