@@ -97,7 +97,10 @@ Se possível:
 
 ------------
 
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+Disponibilizado por [Dio](https://web.dio.me/ "dio").
+Atualizado por [Leonardo jaques](https://www.linkedin.com/in/leonardojaques-dev/ "leo").
+
+
 
 
 
